@@ -1,0 +1,166 @@
+<BioSampleSet>
+  <BioSample access="public" publication_date="2013-10-30T00:00:00.000" last_update="2019-04-17T05:34:01.683"
+             submission_date="2013-10-31T08:05:17.940" id="2389613" accession="SAMEA2066668">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2066668</Id>
+      <Id db="SRA">ERS243141</Id>
+    </Ids>
+    <Description>
+      <Title>S_oak_fed</Title>
+      <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+        <OrganismName>Quercus robur</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">S_oak_fed</Attribute>
+      <Attribute attribute_name="Broker name">GabiPD Team, Bioinformatics group, Max Planck Institute of Molecular Plant
+        Physiology, Potsdam, Germany
+      </Attribute>
+      <Attribute attribute_name="Description" harmonized_name="description" display_name="description">pooled oligo-dt
+        RNA from leaves of two Q. robur L. clones (ASB13b, ASB47b; susceptible to T. virirdana L.) grafted onto Quercus
+        robur saplings; after 16 h feeding by Tortrix viridana L.
+      </Attribute>
+      <Attribute attribute_name="ENA checklist">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center alias">vTI</Attribute>
+      <Attribute attribute_name="INSDC center name">vTI</Attribute>
+      <Attribute attribute_name="INSDC first public">2013-10-30T17:01:19Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T10:13:20Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS243141</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS243141
+      </Attribute>
+      <Attribute attribute_name="Title">S_oak_fed</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-08T14:24:40"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2013-10-30T00:00:00.000" last_update="2019-04-17T05:34:01.357"
+             submission_date="2013-10-31T08:05:17.850" id="2389612" accession="SAMEA2066667">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2066667</Id>
+      <Id db="SRA">ERS243140</Id>
+    </Ids>
+    <Description>
+      <Title>S_oak_control</Title>
+      <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+        <OrganismName>Quercus robur</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">S_oak_control</Attribute>
+      <Attribute attribute_name="Broker name">GabiPD Team, Bioinformatics group, Max Planck Institute of Molecular Plant
+        Physiology, Potsdam, Germany
+      </Attribute>
+      <Attribute attribute_name="Description" harmonized_name="description" display_name="description">pooled oligo-dt
+        RNA from leaves of two Q. robur L. clones (ASB13b, ASB47b; susceptible to T. virirdana L.) grafted onto Quercus
+        robur saplings; unfed controls
+      </Attribute>
+      <Attribute attribute_name="ENA checklist">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center alias">vTI</Attribute>
+      <Attribute attribute_name="INSDC center name">vTI</Attribute>
+      <Attribute attribute_name="INSDC first public">2013-10-30T17:01:19Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T10:13:20Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS243140</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS243140
+      </Attribute>
+      <Attribute attribute_name="Title">S_oak_control</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-08T14:24:40"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2013-10-30T00:00:00.000" last_update="2019-04-17T05:34:01.513"
+             submission_date="2013-10-31T08:05:17.793" id="2389611" accession="SAMEA2066666">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2066666</Id>
+      <Id db="SRA">ERS243139</Id>
+    </Ids>
+    <Description>
+      <Title>T_oak_fed</Title>
+      <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+        <OrganismName>Quercus robur</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">T_oak_fed</Attribute>
+      <Attribute attribute_name="Broker name">GabiPD Team, Bioinformatics group, Max Planck Institute of Molecular Plant
+        Physiology, Potsdam, Germany
+      </Attribute>
+      <Attribute attribute_name="Description" harmonized_name="description" display_name="description">pooled oligo-dt
+        RNA from leaves of three Q. robur L. clones (ASB2a, ASB14a,ASB17a; tolerant to T. virirdana L.) grafted onto
+        Quercus robur saplings; after 16 h feeding by Tortrix viridana L.
+      </Attribute>
+      <Attribute attribute_name="ENA checklist">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center alias">vTI</Attribute>
+      <Attribute attribute_name="INSDC center name">vTI</Attribute>
+      <Attribute attribute_name="INSDC first public">2013-10-30T17:01:19Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T10:13:20Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS243139</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS243139
+      </Attribute>
+      <Attribute attribute_name="Title">T_oak_fed</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-08T14:24:40"/>
+  </BioSample>
+  <BioSample access="public" publication_date="2013-10-30T00:00:00.000" last_update="2019-04-17T05:34:01.183"
+             submission_date="2013-10-31T08:05:17.600" id="2389610" accession="SAMEA2066665">
+    <Ids>
+      <Id db="BioSample" is_primary="1">SAMEA2066665</Id>
+      <Id db="SRA">ERS243138</Id>
+    </Ids>
+    <Description>
+      <Title>T_oak_control</Title>
+      <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+        <OrganismName>Quercus robur</OrganismName>
+      </Organism>
+    </Description>
+    <Owner>
+      <Name>EBI</Name>
+    </Owner>
+    <Models>
+      <Model>Generic</Model>
+    </Models>
+    <Package display_name="Generic">Generic.1.0</Package>
+    <Attributes>
+      <Attribute attribute_name="Alias">T_oak_control</Attribute>
+      <Attribute attribute_name="Broker name">GabiPD Team, Bioinformatics group, Max Planck Institute of Molecular Plant
+        Physiology, Potsdam, Germany
+      </Attribute>
+      <Attribute attribute_name="Description" harmonized_name="description" display_name="description">pooled oligo-dt
+        RNA from leaves of two Q. robur L. clones (ASB2a, ASB17a; tolerant to T. virirdana L.) grafted onto Quercus
+        robur saplings; unfed control
+      </Attribute>
+      <Attribute attribute_name="ENA checklist">ERC000011</Attribute>
+      <Attribute attribute_name="INSDC center alias">vTI</Attribute>
+      <Attribute attribute_name="INSDC center name">vTI</Attribute>
+      <Attribute attribute_name="INSDC first public">2013-10-30T17:01:19Z</Attribute>
+      <Attribute attribute_name="INSDC last update">2018-03-09T10:13:20Z</Attribute>
+      <Attribute attribute_name="INSDC status">public</Attribute>
+      <Attribute attribute_name="SRA accession">ERS243138</Attribute>
+      <Attribute attribute_name="Sample Name" harmonized_name="sample_name" display_name="sample name">ERS243138
+      </Attribute>
+      <Attribute attribute_name="Title">T_oak_control</Attribute>
+    </Attributes>
+    <Status status="live" when="2015-08-08T14:24:40"/>
+  </BioSample>
+</BioSampleSet>

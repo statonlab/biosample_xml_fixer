@@ -1,0 +1,335 @@
+<BioSampleSet>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:09.823" submission_date="2017-03-28T09:21:06.753" id="6647531" accession="SAMN06647531">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647531</Id>
+            <Id db="SRA">SRS2075405</Id>
+            <Id db="GEO">GSM2551952</Id>
+        </Ids>
+        <Description>
+            <Title>Tubmel_Qrob_mycorrhiza 3</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber melanosporum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551952">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551952</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.567"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:10.587" submission_date="2017-03-28T09:21:06.120" id="6647530" accession="SAMN06647530">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647530</Id>
+            <Id db="SRA">SRS2075407</Id>
+            <Id db="GEO">GSM2551953</Id>
+        </Ids>
+        <Description>
+            <Title>Tubma_Qrob_mycorrhiza 1</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber magnatum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551953">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551953</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.557"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:10.203" submission_date="2017-03-28T09:21:05.480" id="6647529" accession="SAMN06647529">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647529</Id>
+            <Id db="SRA">SRS2075406</Id>
+            <Id db="GEO">GSM2551954</Id>
+        </Ids>
+        <Description>
+            <Title>Tubma_Qrob_mycorrhiza 2</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber magnatum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551954">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551954</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.547"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:10.417" submission_date="2017-03-28T09:21:04.887" id="6647528" accession="SAMN06647528">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647528</Id>
+            <Id db="SRA">SRS2075408</Id>
+            <Id db="GEO">GSM2551955</Id>
+        </Ids>
+        <Description>
+            <Title>Tubma_Qrob_mycorrhiza 3</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber magnatum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551955">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551955</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.537"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:10.750" submission_date="2017-03-28T09:21:04.273" id="6647527" accession="SAMN06647527">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647527</Id>
+            <Id db="SRA">SRS2075409</Id>
+            <Id db="GEO">GSM2551956</Id>
+        </Ids>
+        <Description>
+            <Title>Tubae_Qrob_mycorrhiza 1</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber aestivum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551956">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551956</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.527"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:10.933" submission_date="2017-03-28T09:21:03.403" id="6647526" accession="SAMN06647526">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647526</Id>
+            <Id db="SRA">SRS2075410</Id>
+            <Id db="GEO">GSM2551957</Id>
+        </Ids>
+        <Description>
+            <Title>Tubae_Qrob_mycorrhiza 2</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber aestivum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551957">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551957</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.517"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:11.117" submission_date="2017-03-28T09:21:02.947" id="6647525" accession="SAMN06647525">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647525</Id>
+            <Id db="SRA">SRS2075411</Id>
+            <Id db="GEO">GSM2551958</Id>
+        </Ids>
+        <Description>
+            <Title>Tubae_Qrob_mycorrhiza 3</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber aestivum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551958">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551958</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.507"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:09.983" submission_date="2017-03-28T09:20:04.760" id="6647524" accession="SAMN06647524">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647524</Id>
+            <Id db="SRA">SRS2075404</Id>
+            <Id db="GEO">GSM2551950</Id>
+        </Ids>
+        <Description>
+            <Title>Tubmel_Qrob_mycorrhiza 1</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber melanosporum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551950">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551950</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.493"/>
+    </BioSample>
+    <BioSample access="public" publication_date="2018-07-01T00:00:00.000" last_update="2018-07-01T01:21:09.663" submission_date="2017-03-28T09:20:03.510" id="6647523" accession="SAMN06647523">
+        <Ids>
+            <Id db="BioSample" is_primary="1">SAMN06647523</Id>
+            <Id db="SRA">SRS2075403</Id>
+            <Id db="GEO">GSM2551951</Id>
+        </Ids>
+        <Description>
+            <Title>Tubmel_Qrob_mycorrhiza 2</Title>
+            <Organism taxonomy_id="38942" taxonomy_name="Quercus robur">
+                <OrganismName>Quercus robur</OrganismName>
+            </Organism>
+        </Description>
+        <Owner>
+            <Name>Interactions Arbres/Micro-organismes, UMR 1136, INRA</Name>
+            <Contacts>
+                <Contact email="annegret.kohler@inra.fr">
+                    <Name>
+                        <First>Annegret</First>
+                        <Last>Kohler</Last>
+                    </Name>
+                </Contact>
+            </Contacts>
+        </Owner>
+        <Models>
+            <Model>Generic</Model>
+        </Models>
+        <Package display_name="Generic">Generic.1.0</Package>
+        <Attributes>
+            <Attribute attribute_name="source_name" harmonized_name="source_name" display_name="source name">Tuber melanosporum</Attribute>
+            <Attribute attribute_name="tissue" harmonized_name="tissue" display_name="tissue">mycorrhizal root tips</Attribute>
+        </Attributes>
+        <Links>
+            <Link type="url" label="GEO Sample GSM2551951">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2551951</Link>
+            <Link type="entrez" target="bioproject" label="PRJNA380755">380755</Link>
+        </Links>
+        <Status status="live" when="2018-07-01T00:50:11.480"/>
+    </BioSample>
+</BioSampleSet>
